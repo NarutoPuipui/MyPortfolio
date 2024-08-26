@@ -10,7 +10,7 @@ const Hero = () => {
       <div className=' flex justify-center items-center gap-10 '>
       <Image 
       className=' rounded-full'
-        src="/images/profile.jpg" // Path to your image
+        src="/profile.jpg" // Path to your image
         alt="img"
         width={180} // Specify the width of the image
         height={180} // Specify the height of the image
